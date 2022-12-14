@@ -25,7 +25,7 @@
         <router-link class="btn btn-primary" to="/posts"
           >Page d'accueil</router-link
         >
-        <button class="btn btn-danger" @click="togglePopup">Cancel</button>
+        <button class="btn btn-danger" @click="togglePopup">Retour</button>
       </div>
     </div>
   </div>
